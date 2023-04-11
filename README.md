@@ -12,3 +12,5 @@
         <li><button class="btn">Sign Out</button></li>
     </ul>
 </div> 
+```
+![navbar example](navbar.png)
